@@ -1,0 +1,10 @@
+name: Sethome
+main: com.eddiefrypan.sethome.Main
+version: 1.8-1.0
+commands:
+   sethome:
+      description: sets your home's location
+      usage: /sethome
+   home:
+      description: teleports you home
+      usage: /home
